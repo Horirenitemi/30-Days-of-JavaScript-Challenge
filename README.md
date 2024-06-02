@@ -40,3 +40,4 @@ An overview of challenge toipcs by day is shown below.
 ## References
 1. https://github.com/Asabeneh/30-Days-Of-JavaScript.git
 2. https://30dayjavascript.js.org/
+3. https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
